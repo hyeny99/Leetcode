@@ -1,5 +1,5 @@
 # 🌺 Hyeny's Leetcode 🌺 
-### ~ inspired by [qiyuangong](https://github.com/qiyuangong/leetcode)'s leetcode page ~
+### ~ inspired by 🔗[qiyuangong](https://github.com/qiyuangong/leetcode)'s leetcode page ~
 
 <br />I am currently doing a daily challenge on leetcode. This page is upadated daily.
 <br />My solutions are accepted yet might not be the most efficient ones.
