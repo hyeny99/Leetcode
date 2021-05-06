@@ -1,3 +1,9 @@
+/***
+* Authority: Algorithms Made Easy (https://www.youtube.com/watch?v=ey8FxYsFAMU)
+* Please check out the video for more information / explanation of this code.
+* There may be subtle modifications in my code.
+***/
+
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.PriorityQueue;
