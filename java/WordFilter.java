@@ -1,3 +1,9 @@
+/***
+* Authority: Algorithms Made Easy (https://www.youtube.com/watch?v=U7fIQ7qAeuE&t=773s)
+* Please check out the video for more information / explanation of this code.
+* There may be subtle modifications in my code.
+***/
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
