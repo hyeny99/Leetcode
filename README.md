@@ -1,6 +1,11 @@
-# Leetcode
+# 🌺 Hyeny's Leetcode 🌺 
+<h3>~inspired by [qiyuangong](https://github.com/qiyuangong/leetcode)'s leetcode page~ </h3>
 
-Problem Title | Difficulty | Solution | Description 
+<br />I am currently doing a daily challenge on leetcode. This page is upadated daily.
+<br />My solutions are accepted yet might not be the most efficient ones.
+<br />Please share with me if you have better solutions or you can improve my codes(spacy complexity-wise and running time-wise)!
+
+ Problem Title | Difficulty | Solution | Description 
  --- | --- | --- | ---
  [#1. Two Sum](https://leetcode.com/problems/two-sum/) | easy | [Java](https://github.com/hyeny99/Leetcode/blob/main/java/TwoSum.java) | target - a[i] check if the value is found in the array
  [#3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | medium | [Java](https://github.com/hyeny99/Leetcode/blob/main/java/Longest.java) | ---
