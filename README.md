@@ -3,7 +3,7 @@
 
 <br />I am currently doing a daily challenge on leetcode. This page is upadated daily.
 <br />My solutions are accepted yet might not be the most efficient ones.
-<br />Please share with me if you have better solutions or you can improve my codes(spacy complexity-wise and running time-wise)!
+<br />Please share with me if you have better solutions or you can improve my codes (space complexity-wise and running time-wise)!
 
  Problem Title | Difficulty | Solution | Description 
  --- | --- | --- | ---
