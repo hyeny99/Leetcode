@@ -1,3 +1,9 @@
+/***
+* Authority: EazyAlgo (https://www.youtube.com/watch?v=0E8Xxu6LV9o)
+* Please check out the video for more information / explanation of this code.
+* There may be subtle modifications in my code.
+***/
+
 
 //Definition for singly-linked list.
  class ListNode {
