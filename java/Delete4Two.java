@@ -1,3 +1,8 @@
+/***
+* Authority: Algorithms Made Easy (https://www.youtube.com/watch?v=iZ_wJbrlJz0&ab_channel=AlgorithmsMadeEasy)
+* Please check out the video for more information / explanation of this code.
+* There may be subtle modifications in my code.
+***/
 
 public class Delete4Two {
 	public int minDistance(String word1, String word2) {
