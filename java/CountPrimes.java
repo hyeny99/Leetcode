@@ -1,4 +1,6 @@
-
+/**
+* reference: https://leetcode.com/discuss/explore/may-leetcoding-challenge-2021/1200799/Count-Primes-or-JS-Python-Java-C%2B%2B-or-Easy-Sieve-of-Eratosthenes-Solution-w-Explanation
+*/
 public class CountPrimes {
 
 	public int countPrimes(int n) {
