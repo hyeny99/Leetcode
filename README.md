@@ -11,6 +11,7 @@
  [#3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | medium | [Java](https://github.com/hyeny99/Leetcode/blob/main/java/Longest.java) | ---
  [#7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | easy | [Java](https://github.com/hyeny99/Leetcode/blob/main/java/ReverseInteger.java) | read the number backwards(use %) and check if the reverse calculation is equal to the previous value.
  [#45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | medium | [Java](https://github.com/hyeny99/Leetcode/blob/main/java/JumpGame2.java) | create an array of farthest indices. How far can it jump from here?
+ [#65. Valid Number](https://leetcode.com/problems/valid-number/) | hard | [Java] | Regex (detailed explanation in the java docs)
  [#109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | medium | [java](https://github.com/hyeny99/Leetcode/blob/main/java/List2BST.java) | Recursive function: Find a median and call the function itself with its left subtree and right subtree
  [#114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | medium | [Java] | ---
  [#204. Count Primes](https://leetcode.com/problems/count-primes/) | easy | [Java](https://github.com/hyeny99/Leetcode/blob/main/java/CountPrimes.java) | sieve of Eratosthenes(table of prime numbers) <br /> Running time: O(n log log n)
