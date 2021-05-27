@@ -29,6 +29,8 @@
  [#1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) | hard | [Java] | 1. Find the max using Priority Queue (Max Heap) <br />2. modulo (ex.[10,3] -> [(10-3),3] -> [4,3] -> [1,3] can be done faster [10%3,3])
  [#1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | medium | [Java] | ---
  [#1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | easy | [Java](https://github.com/hyeny99/Leetcode/blob/main/java/OneDArray.java) | Use a for loop to get the sum of the array
+ [#1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | medium | [Java] | find the max digit!
+
  
  
 
