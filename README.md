@@ -18,6 +18,7 @@
  [#114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | medium | [Java] | Method1) Read the tree in right-left-parent order<br />Method2) Morris Traversal
  [#204. Count Primes](https://leetcode.com/problems/count-primes/) | easy | [Java](https://github.com/hyeny99/Leetcode/blob/main/java/CountPrimes.java) | sieve of Eratosthenes(table of prime numbers) <br /> Running time: O(n log log n)
  [#304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | medium | [Java](https://github.com/hyeny99/Leetcode/blob/main/java/NumMatrix.java) | use two for loops(or while loops) to retrieve the matrix's rows and columns
+ [#318. Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | medium | [Java] | Two ways to solve:<br />1. create 2d matrix<br />2. use bitmask (a-0, b-1, c-2,... so on)
  [#583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | medium | [Java](https://github.com/hyeny99/Leetcode/blob/main/java/Delete4Two.java) | make a table to find the longest common substring (O(m*n))
  [#609. Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | medium | [Java] | ---
  [#630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) | hard | [Java](https://github.com/hyeny99/Leetcode/blob/main/java/Course3.java) | 1. sort the array by last date of the course <br />2. Implement Priority Queue to construct a maxHeap
